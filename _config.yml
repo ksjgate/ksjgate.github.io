@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Kim Sang Jun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **developing** Data scientist."
-  location         : "Korea, near Korea Univ"
+  bio              : "I am a **developing** Data scientist."
+  location         : "Korea, near Korea Univ."
   email            :
   links:
     - label: "Email"
